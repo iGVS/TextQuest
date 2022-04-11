@@ -1,0 +1,7 @@
+C:\Users\GVS\source\repos\TextQuest\obj\Debug\TextQuest.csproj.AssemblyReference.cache
+C:\Users\GVS\source\repos\TextQuest\obj\Debug\TextQuest.csproj.CoreCompileInputs.cache
+C:\Users\GVS\source\repos\TextQuest\bin\Debug\TextQuest.exe.config
+C:\Users\GVS\source\repos\TextQuest\bin\Debug\TextQuest.exe
+C:\Users\GVS\source\repos\TextQuest\bin\Debug\TextQuest.pdb
+C:\Users\GVS\source\repos\TextQuest\obj\Debug\TextQuest.exe
+C:\Users\GVS\source\repos\TextQuest\obj\Debug\TextQuest.pdb
